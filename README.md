@@ -3,3 +3,5 @@
 Livro de código aberto, para o curso de licenciatura em Matemática
 
 Matemática Básica
+
+atualmente
